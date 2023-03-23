@@ -14,7 +14,6 @@ int main(void)
 	i = 0;
 
 	/*
-	*Commenting out the code that causes the infinite loop.
 	*while (i < 10)
 	*{
 	*	putchar(i);
